@@ -23,6 +23,10 @@ Outside of data, I'm always looking for new challenges and ways to turn ideas in
 
 # 📂 Portfolio Projects
 
+### Project 1:
+
+[Personal Fitness Tracker](https://github.com/charliebertelsen/fitness-tracker)
+
 # 📬 Contact
 
 
