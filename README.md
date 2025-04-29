@@ -24,3 +24,8 @@ Outside of data, I'm always looking for new challenges and ways to turn ideas in
 # 📂 Portfolio Projects
 
 # 📬 Contact
+
+
+**Email:** charlie.bertelsen07@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/charlie-bertelsen/
