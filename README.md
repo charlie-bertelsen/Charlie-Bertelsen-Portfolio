@@ -1,4 +1,4 @@
-# Charlie-Analyst-Portfolio
+# Charlie-Data-Analytics-Portfolio
 Data Analytics Portfolio
 
 # 📚 Table of Contents
