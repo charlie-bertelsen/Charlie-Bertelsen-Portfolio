@@ -19,7 +19,16 @@ Outside of data, I'm always looking for new challenges and ways to turn ideas in
 
 # 🛠️ Skills
 
+R: ggplot2, dplyr, tidyverse, Shiny 
+
+Python: Pandas, NumPy, Seaborn 
+
+SQL: Query optimization, joins, data manipulation 
+
+Data visualization: Excel, Google Sheets 
+
 # 🎓 Education
+
 
 # 📂 Portfolio Projects
 
