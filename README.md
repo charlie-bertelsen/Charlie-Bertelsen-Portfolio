@@ -8,9 +8,10 @@
 - [📬 Contact](#contact)
 
 # 📖 About Me
-Hey, I'm Charlie Bertelsen — a Data Analytics major at Washington State University. I enjoy working with data to find patterns, solve problems, and build interactive dashboards and visualizations.
 
-I'm experienced with Python, SQL, and R, and love using tools like Pandas, ggplot2, and Shiny to turn complex data into clear, meaningful insights. Some of my favorite projects include analyzing airline auxiliary revenue, exploring the impacts of COVID-19 on traffic patterns in Los Angeles, and building a personal fitness tracker to store health data and track progress toward my goals.
+My name is Charlie Bertelsen and I am currently a Data Analytics major at Washington State University. I enjoy working with data to find patterns, solve problems, and tell stories through interactive dashboards and visualizations.
+
+Some of my favorite projects include analyzing airline auxiliary revenue, exploring the impacts of COVID-19 on traffic patterns in Los Angeles, and building a personal fitness tracker to store health data and track progress toward my goals. You can find some of these projects below!
 
 I'm currently focused on growing my skills in advanced SQL, data engineering, and storytelling through dashboards with Microsoft Power BI.
 
@@ -25,19 +26,22 @@ Python: Pandas, NumPy, Seaborn
 
 SQL: Query optimization, joins, data manipulation 
 
-Data visualization: Excel, Google Sheets 
+Data visualization: Mircrosoft PowerBI, Excel
 
 # 🎓 Education
 
 
 # 📂 Portfolio Projects
 
-### Project 1:
+### Project 1: Fitness tracker
 
 [Personal Fitness Tracker](https://github.com/charliebertelsen/Fitness-Tracker)
 
-# 📬 Contact
+### Project 2: An analysis on the impacts of COVID-19 on the city of Los Angeles
 
+
+
+# 📬 Contact
 
 **Email:** charlie.bertelsen07@gmail.com
 
