@@ -37,7 +37,7 @@ Data visualization: Mircrosoft PowerBI, Excel
 
 [Fitness-Tracker](https://github.com/charlie-bertelsen/Fitness-Tracker)
 
-### Project 2: An analysis on the impacts of COVID-19 on the city of Los Angeles
+### Project 2: COVID-19 Traffic Analysis
 
 
 
