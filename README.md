@@ -35,7 +35,7 @@ Data visualization: Mircrosoft PowerBI, Excel
 
 ### Project 1: Fitness tracker
 
-[Personal Fitness Tracker](https://github.com/charliebertelsen/Fitness-Tracker)
+[Fitness-Tracker](https://github.com/charlie-bertelsen/Fitness-Tracker)
 
 ### Project 2: An analysis on the impacts of COVID-19 on the city of Los Angeles
 
