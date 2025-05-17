@@ -37,7 +37,9 @@ Data visualization: Mircrosoft PowerBI, Excel
 
 [Fitness-Tracker](https://github.com/charlie-bertelsen/Fitness-Tracker)
 
-### Project 2: COVID-19 Traffic Analysis
+### Project 2: Montgomery County Alcohol Market Analysis - Retail and Wholesale Trends
+
+[Montgomery-Sales_Analysis](https://github.com/charlie-bertelsen/Montgomery-Sales-Analysis )
 
 
 
