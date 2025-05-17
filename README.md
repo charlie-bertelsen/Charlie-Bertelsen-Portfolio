@@ -11,7 +11,7 @@
 
 My name is Charlie Bertelsen and I am currently a Data Analytics major at Washington State University. I enjoy working with data to find patterns, solve problems, and tell stories through interactive dashboards and visualizations.
 
-Some of my favorite projects include analyzing airline auxiliary revenue, exploring the impacts of COVID-19 on traffic patterns in Los Angeles, and building a personal fitness tracker to store health data and track progress toward my goals. You can find some of these projects below!
+Some of my favorite projects include building a personal fitness tracker to store health data and track progress toward my goals, exploring the impacts of COVID-19 on traffic patterns in Los Angeles, and analyzing airline auxiliary revenue. You can find some of these projects below!
 
 I'm currently focused on growing my skills in advanced SQL, data engineering, and storytelling through dashboards with Microsoft Power BI.
 
@@ -30,17 +30,23 @@ Data visualization: Mircrosoft PowerBI, Excel
 
 # 🎓 Education
 
+**Bachelor of Science**, *Data Analytics*
+
+**Minor**, *Economics*
+
+**Washington State University**, Pullman, WA
+
+`December 2025` `GPA: 3.77`
 
 # 📂 Portfolio Projects
 
-### Project 1: Fitness tracker
-
-[Fitness-Tracker](https://github.com/charlie-bertelsen/Fitness-Tracker)
-
-### Project 2: Montgomery County Alcohol Market Analysis - Retail and Wholesale Trends
+### Project 1: Montgomery County Alcohol Market Analysis - Retail and Wholesale Trends
 
 [Montgomery-Sales_Analysis](https://github.com/charlie-bertelsen/Montgomery-Sales-Analysis )
 
+### Project 2: Fitness tracker
+
+[Fitness-Tracker](https://github.com/charlie-bertelsen/Fitness-Tracker)
 
 
 # 📬 Contact
