@@ -48,6 +48,10 @@ Data visualization: Mircrosoft PowerBI, Excel
 
 [Fitness-Tracker](https://github.com/charlie-bertelsen/Fitness-Tracker)
 
+### Project 3: COVID-19 Traffic Analysis
+
+[COVID-19-and-Traffic-Collisions-in-Los-Angeles](https://github.com/charlie-bertelsen/COVID-19-and-Traffic-Collision-Analysis-in-Los-Angeles)
+
 
 # 📬 Contact
 
