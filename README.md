@@ -4,7 +4,7 @@
 - [📖 About Me](#about-me)
 - [🛠️ Skills](#skills)
 - [🎓 Education](#education)
-- [📂 Portfolio Projects](#portfolio-projects)
+- [📂 Projects](#projects)
 - [📬 Contact](#contact)
 
 # 📖 About Me
@@ -17,16 +17,25 @@ I'm currently focused on growing my skills in advanced SQL, data engineering, an
 
 Outside of data, I'm always looking for new challenges and ways to turn ideas into impactful projects.
 
+🎯 Primary Interests  
+- Sports analytics  
+- Health tech  
+- Behavioral economics  
+- Interactive data storytelling
+
 
 # 🛠️ Skills
 
-R: ggplot2, dplyr, tidyverse, Shiny 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  R: ggplot2, dplyr, tidyverse, Shiny 
 
-Python: Pandas, NumPy, Seaborn 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  Python: Pandas, NumPy, Seaborn 
 
-SQL: Query optimization, joins, data manipulation 
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  SQL: Query optimization, joins, data manipulation 
 
-Data visualization: Mircrosoft PowerBI, Excel
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  Data visualization: Mircrosoft Power BI, Excel
+
+
+
 
 # 🎓 Education
 
@@ -38,19 +47,25 @@ Data visualization: Mircrosoft PowerBI, Excel
 
 `December 2025` `GPA: 3.77`
 
-# 📂 Portfolio Projects
+# 📂 Projects
 
-### Project 1: Montgomery County Alcohol Market Analysis - Retail and Wholesale Trends
+### Project 1: 📊 Montgomery County Alcohol Market Analysis - Retail and Wholesale Trends
 
 [Montgomery-Sales_Analysis](https://github.com/charlie-bertelsen/Montgomery-Sales-Analysis )
 
-### Project 2: Fitness tracker
+Analyzed retail and wholesale alcohol sales data to identify seasonal and supplier trends. Built Power BI dashboards and delivered business insights.
+
+### Project 2: 🏋️‍♂️ Fitness tracker
 
 [Fitness-Tracker](https://github.com/charlie-bertelsen/Fitness-Tracker)
 
-### Project 3: COVID-19 Traffic Analysis
+Designed a full pipeline to store and visualize workout, nutrition, and biometric data. Tools: MySQL, Python, Power BI.
+
+### Project 3: 🔍 COVID-19 Traffic Analysis
 
 [COVID-19-and-Traffic-Collisions-in-Los-Angeles](https://github.com/charlie-bertelsen/COVID-19-and-Traffic-Collision-Analysis-in-Los-Angeles)
+
+Explored the inverse relationship between COVID-19 metrics and traffic collisions in LA using regression and clustering. Tools: R, ggplot2, PCA, Negative Binomial Regression.
 
 
 # 📬 Contact
