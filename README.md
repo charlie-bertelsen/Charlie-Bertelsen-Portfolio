@@ -1,11 +1,15 @@
 # Charlie Bertelsen Data Analytics Portfolio
 
+<p>&nbsp;</p>  <!-- Adds vertical space -->
+
 # 📚 Table of Contents
 - [📖 About Me](#about-me)
 - [🛠️ Skills](#skills)
 - [🎓 Education](#education)
 - [📂 Projects](#projects)
 - [📬 Contact](#contact)
+
+<p>&nbsp;</p>  <!-- Adds vertical space -->
 
 # 📖 About Me
 
@@ -23,6 +27,7 @@ Outside of data, I'm always looking for new challenges and ways to turn ideas in
 - Behavioral economics  
 - Interactive data storytelling
 
+<p>&nbsp;</p>  <!-- Adds vertical space -->
 
 # 🛠️ Skills
 
@@ -35,7 +40,7 @@ Outside of data, I'm always looking for new challenges and ways to turn ideas in
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  Data visualization: Mircrosoft Power BI, Excel
 
 
-
+<p>&nbsp;</p>  <!-- Adds vertical space -->
 
 # 🎓 Education
 
@@ -46,6 +51,8 @@ Outside of data, I'm always looking for new challenges and ways to turn ideas in
 **Washington State University**, Pullman, WA
 
 `December 2025` `GPA: 3.77`
+
+<p>&nbsp;</p>  <!-- Adds vertical space -->
 
 # 📂 Projects
 
@@ -67,6 +74,7 @@ Designed a full pipeline to store and visualize workout, nutrition, and biometri
 
 Explored the inverse relationship between COVID-19 metrics and traffic collisions in LA using regression and clustering. Tools: R, ggplot2, PCA, Negative Binomial Regression.
 
+<p>&nbsp;</p>  <!-- Adds vertical space -->
 
 # 📬 Contact
 
